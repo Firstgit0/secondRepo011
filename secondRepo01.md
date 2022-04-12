@@ -9,3 +9,6 @@ step 7 copy the path from the clicking in repository of git hun
 step 8 go to fork right click on origin fetch the file after that right click on the origin and paste the path in push funtion 
 step 9 in master arrow shows which means some new upadates are came right click on it and pull origin to master 
 now in uppper side gray colour commit chages in to the black color
+
+
+i am doing first time with deatial explanation .
